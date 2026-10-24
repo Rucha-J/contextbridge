@@ -94,7 +94,7 @@ contextbridge/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Rucha-Jadhav/contextbridge.git
+   git clone https://github.com/Rucha-J/contextbridge.git
    cd contextbridge
    ```
 
